@@ -1,0 +1,24 @@
+apple = "Aomori"
+
+if apple == "NAgano"
+ puts "りんごの生産地は長野です"
+else
+ puts "りんごの生産地が青森です"
+
+end
+
+
+
+apple = "YAMAGATA"
+
+if apple == "NAGANO"
+ puts "りんごの生産地は長野です"
+
+elsif apples == "YAMAGATA"
+ puts "りんごの生産地は山形です"
+
+else
+ puts "りんごの生産地は青森です"
+
+end
+
